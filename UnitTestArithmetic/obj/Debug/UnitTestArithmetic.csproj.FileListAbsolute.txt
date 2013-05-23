@@ -1,0 +1,7 @@
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\UnitTestArithmetic\bin\Debug\UnitTestArithmetic.dll
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\UnitTestArithmetic\bin\Debug\UnitTestArithmetic.pdb
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\UnitTestArithmetic\bin\Debug\acmp_0008_Arithmetic.dll
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\UnitTestArithmetic\bin\Debug\acmp_0008_Arithmetic.pdb
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\UnitTestArithmetic\obj\Debug\UnitTestArithmetic.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\UnitTestArithmetic\obj\Debug\UnitTestArithmetic.dll
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\UnitTestArithmetic\obj\Debug\UnitTestArithmetic.pdb

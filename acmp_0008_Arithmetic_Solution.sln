@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acmp_0008_Arithmetic", "acmp_0008_Arithmetic\acmp_0008_Arithmetic.csproj", "{D5C65C98-CC7B-4D18-9041-5D1E6F218E23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestArithmetic", "UnitTestArithmetic\UnitTestArithmetic.csproj", "{609BC190-9E67-4D5C-BEAA-BF63C26420D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsageArithmetic", "UsageArithmetic\UsageArithmetic.csproj", "{AAA44517-0D8E-4718-A5CB-C082F8159D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C65C98-CC7B-4D18-9041-5D1E6F218E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C65C98-CC7B-4D18-9041-5D1E6F218E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C65C98-CC7B-4D18-9041-5D1E6F218E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C65C98-CC7B-4D18-9041-5D1E6F218E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609BC190-9E67-4D5C-BEAA-BF63C26420D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609BC190-9E67-4D5C-BEAA-BF63C26420D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609BC190-9E67-4D5C-BEAA-BF63C26420D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609BC190-9E67-4D5C-BEAA-BF63C26420D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA44517-0D8E-4718-A5CB-C082F8159D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA44517-0D8E-4718-A5CB-C082F8159D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA44517-0D8E-4718-A5CB-C082F8159D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA44517-0D8E-4718-A5CB-C082F8159D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

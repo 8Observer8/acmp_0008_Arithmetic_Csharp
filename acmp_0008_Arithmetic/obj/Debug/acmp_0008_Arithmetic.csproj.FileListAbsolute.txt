@@ -1,0 +1,5 @@
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\acmp_0008_Arithmetic\bin\Debug\acmp_0008_Arithmetic.dll
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\acmp_0008_Arithmetic\bin\Debug\acmp_0008_Arithmetic.pdb
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\acmp_0008_Arithmetic\obj\Debug\acmp_0008_Arithmetic.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\acmp_0008_Arithmetic\obj\Debug\acmp_0008_Arithmetic.dll
+D:\Documents\C#\Problems\Acmp\acmp_0008_Arithmetic_Solution\acmp_0008_Arithmetic\obj\Debug\acmp_0008_Arithmetic.pdb
