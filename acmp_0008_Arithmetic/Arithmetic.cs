@@ -20,9 +20,16 @@ namespace acmp_0008_Arithmetic
          */
         public string arithmetic(int a, int b, int c)
         {
-            string result = "ERROR";
+            string result;
 
-
+            if (c == a * b)
+            {
+                result = "YES";
+            }
+            else
+            {
+                result = "NO";
+            }
 
             return result;
         }

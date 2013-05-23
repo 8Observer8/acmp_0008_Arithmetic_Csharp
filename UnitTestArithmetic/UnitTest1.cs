@@ -109,7 +109,7 @@ namespace UnitTestArithmetic
             Arithmetic arith = new Arithmetic();
             int a = -5;
             int b = -6;
-            int c = -30;
+            int c = 30;
             string result = arith.arithmetic(a, b, c);
             string expected = "YES";
             Assert.AreEqual(expected, result);
